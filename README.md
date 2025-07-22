@@ -80,9 +80,9 @@ Youtube music-recommendation-system/
 ├── data/
 │   └── youtube_music_dataset.csv # Raw data Scraped using API
 |   └── cleanedata.csv
-├── app.py                      # Streamlit app script
-├── preprocessing.ipynb         # Preprocessing and feature engineering notebook
+├── app.py                         # Streamlit app script
+├── Youtubemusic.ipynb            # Preprocessing and NLP notebook
 │
-├── README.md                   # Project documentation
+├── README.md                      # Project documentation
 └── requirements.txt 
 ```
